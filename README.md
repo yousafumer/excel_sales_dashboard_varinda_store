@@ -19,7 +19,7 @@ This project is an **Excel-based dashboard** created as part of our journey into
 ### Dashboard Preview  
 
 ![Screenshot 2025-01-16 173947](https://github.com/user-attachments/assets/5993efdb-d662-41f1-bd73-5966dd56ada7)
-##Sales Dashboard Overview
+## Sales Dashboard Overview
 This image provides a high-level summary of the sales performance of an Indian store. Key metrics such as total sales, customer distribution by age and gender, sales by category, and order statuses are visualized to offer an at-a-glance understanding of business performance.
 The dashboard highlights:
 
@@ -29,7 +29,7 @@ Insights into sales across different states and cities.
 
 ![Screenshot 2025-01-16 174032](https://github.com/user-attachments/assets/cee22ed8-95f5-48b8-9b19-e7888d51f012)
 
-##Regional Sales and Delivery Analysis
+## Regional Sales and Delivery Analysis
 This image focuses on regional sales performance and delivery insights. It showcases:
 
 Sales by region/state, with detailed metrics to track performance in specific areas.
